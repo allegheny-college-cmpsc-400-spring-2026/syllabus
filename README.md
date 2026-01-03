@@ -55,7 +55,7 @@ Students who successfully complete this course should expect to be able to:
    performance and correctness of operating system modules and the software
    programs that use them.
 
-## Your Instructor: Jeff Normile
+## Your Instructor: Prof Normile
 
 ### Contact
 
@@ -134,9 +134,9 @@ for daily check-ins with the instructor for much of this time period.
 
 We'll then transition into a period of time dedicated to each team sharing the
 content they've prepared with the rest of the class. Your teams will guide your
-classmates through the completion of the coding projects you'll have prepared,
-and each teammate will deliver the lectures they've individually prepared over
-the course of a two-week period. Every two-week period will also culminate in a
+classmates through the completion of the coding projects you'll have developed,
+and each teammate will deliver the lecture they've individually prepared over
+the course of a two-week period. Every two-week period will also culminate in an
 expert forum where you and your teammates will respond to questions from your
 classmates about the subject you've developed expertise in.
 
@@ -149,3 +149,59 @@ service of the final learning objective for the course. How exactly this
 manifests will largely be of your own choosing, but prepare to quantifiably
 measure the performance of what has been built so far, and investigate methods
 for improving upon them.
+
+### Course Calendar
+
+This calendar is intended to only give you a birds-eye view of the course.
+Specific deadlines and deliverables will be posted regularly to the GitHub
+course organization home page as they become relevant to what we're working on.
+
+| Week        | Meeting Days | Act          | Topic              |
+| ----------- | ------------ | ------------ | ------------------ |
+| 1/12 - 1/16 | M/Tu/Th      | Research     | Orientation        |
+| 1/19 - 1/23 | Tu/Th        | Research     | Solo Lecture Dev   |
+| 1/26 - 1/30 | M/Tu/Th      | Research     | Group Module Dev   |
+| 2/2 - 2/6   | M/Tu/Th      | Relay        | Process Management |
+| 2/9 - 2/13  | M/Tu/Th      | Relay        | Process Management |
+| 2/16 - 2/20 | M/Tu/Th      | Relay        | Memory Management  |
+| 2/23 - 2/27 | M/Tu/Th      | Relay        | Memory Management  |
+| 3/2 - 3/6   | `null`       | Intermission | Spring Break!      |
+| 3/9 - 3/13  | M/Tu/Th      | Relay        | Concurrent Systems |
+| 3/16 - 3/20 | M/Tu/Th      | Relay        | Concurrent Systems |
+| 3/23 - 3/27 | M/Tu/Th      | Relay        | Persistent Storage |
+| 3/30 - 4/3  | M/Tu/Th      | Relay        | Persistent Storage |
+| 4/6 - 4/10  | Tu           | Revisit      | Benchmarking       |
+| 4/13 - 4/17 | M/Tu/Th      | Revisit      | Project Proposals  |
+| 4/20 - 4/24 | M/Tu/Th      | Revisit      | Project Dev        |
+| 4/27 - 5/1  | M/F (@9am)   | Revisit      | Outcome Sharing    |
+
+## Grading: Assessing Your Learning
+
+First and foremost, the purpose of our time together is to *learn*. We'll best
+learn together by keeping up with course expectations and (of course) sharing
+what we've discovered with one another. The grading strategies employed in this
+class are built around those ideas.
+
+There are exactly 100 points up for grabs over the course of the semester.
+You'll begin with a score of 0, and each "act" will present a finite number of
+opportunties to pump that score up. Your score at the end of the semester will
+determine the letter grade you receive.
+
+### Letter Grade Conversion Chart
+
+| Score | Grade |
+| :---- | :---: |
+| 93+   | A     |
+| 90+   | A-    |
+| 87+   | B+    |
+| 83+   | B     |
+| 80+   | B-    |
+| 77+   | C+    |
+| 73+   | C     |
+| 70+   | C-    |
+| 67+   | D+    |
+| 63+   | D     |
+
+### Score Breakdown
+
+
