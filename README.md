@@ -359,7 +359,17 @@ Beyond the college-wide statement of community, the Allegheny Department of
 Computer and Information Science has four core values that we will all strive
 to emulate while taking classes within the department:
 
-![Allegheny CIS shared values](assets/values.png)
+- We are **technical**: we aim to achieve competence and excellence in technical
+  knowledge, its applications, and effects.
+
+- We are **inclusive**: we provide an inclusive community environment which
+  invites and celebrates diversity of experience, thought, and belief.
+
+- We are **ethical**: we make decisions rooted in principles equity and justice,
+  focusing on the greater good of the communities we impact.
+
+- We are **responsible**: we honor commitments and take responsibility for our
+  actions and outcomes.
 
 ### Academic Accommodations
 
