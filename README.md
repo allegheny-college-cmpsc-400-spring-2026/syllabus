@@ -125,10 +125,9 @@ guided and independent research. You will work in small groups dedicated to one
 of four broader subjects: process management, memory management, concurrent
 systems, and persistent storage, with each subject mapping back to one of our
 course's first four learning objectives. Within these subjects, you'll work with
-teammates to develop coding activities and projects for the entire class, as
-well as individually prepare material for a brief lecture highlighting a
-specific assigned topic within that subject. You can expect to be responsible
-for daily check-ins with the instructor for much of this time period.
+teammates to develop coding projects for the entire class, as well as
+individually prepare material for a brief lecture highlighting a specific
+assigned topic within that subject.
  
 ### Act II: Relay
 
@@ -156,24 +155,24 @@ This calendar is intended to only give you a birds-eye view of the course.
 Specific deadlines and deliverables will be posted regularly to the GitHub
 course organization home page as they become relevant to what we're working on.
 
-| Week        | Meeting Days | Act          | Topic              |
-| ----------- | ------------ | ------------ | ------------------ |
-| 1/12 - 1/16 | M/Tu/Th      | Research     | Orientation        |
-| 1/19 - 1/23 | Tu/Th        | Research     | Solo Lecture Dev   |
-| 1/26 - 1/30 | M/Tu/Th      | Research     | Group Module Dev   |
-| 2/2 - 2/6   | M/Tu/Th      | Relay        | Process Management |
-| 2/9 - 2/13  | M/Tu/Th      | Relay        | Process Management |
-| 2/16 - 2/20 | M/Tu/Th      | Relay        | Memory Management  |
-| 2/23 - 2/27 | M/Tu/Th      | Relay        | Memory Management  |
-| 3/2 - 3/6   | `null`       | Intermission | Spring Break!      |
-| 3/9 - 3/13  | M/Tu/Th      | Relay        | Concurrent Systems |
-| 3/16 - 3/20 | M/Tu/Th      | Relay        | Concurrent Systems |
-| 3/23 - 3/27 | M/Tu/Th      | Relay        | Persistent Storage |
-| 3/30 - 4/3  | M/Tu/Th      | Relay        | Persistent Storage |
-| 4/6 - 4/10  | Tu           | Revisit      | Benchmarking       |
-| 4/13 - 4/17 | M/Tu/Th      | Revisit      | Project Proposals  |
-| 4/20 - 4/24 | M/Tu/Th      | Revisit      | Project Dev        |
-| 4/27 - 5/1  | M/F (@9am)   | Revisit      | Outcome Sharing    |
+| Week        | Meeting Days | Act          | Topic               |
+| ----------- | ------------ | ------------ | ------------------- |
+| 1/12 - 1/16 | M/Tu/Th      | Research     | Orientation         |
+| 1/19 - 1/23 | Tu/Th        | Research     | Module Proposals    |
+| 1/26 - 1/30 | M/Tu/Th      | Research     | Module Prototypes   |
+| 2/2 - 2/6   | M/Tu/Th      | Relay        | Process Management  |
+| 2/9 - 2/13  | M/Tu/Th      | Relay        | Process Management  |
+| 2/16 - 2/20 | M/Tu/Th      | Relay        | Memory Management   |
+| 2/23 - 2/27 | M/Tu/Th      | Relay        | Memory Management   |
+| 3/2 - 3/6   | `null`       | Intermission | Spring Break!       |
+| 3/9 - 3/13  | M/Tu/Th      | Relay        | Concurrent Systems  |
+| 3/16 - 3/20 | M/Tu/Th      | Relay        | Concurrent Systems  |
+| 3/23 - 3/27 | M/Tu/Th      | Relay        | Persistent Storage  |
+| 3/30 - 4/3  | M/Tu/Th      | Relay        | Persistent Storage  |
+| 4/6 - 4/10  | Tu           | Revisit      | Benchmarking        |
+| 4/13 - 4/17 | M/Tu/Th      | Revisit      | Project Proposals   |
+| 4/20 - 4/24 | M/Tu/Th      | Revisit      | Project Dev         |
+| 4/27 - 5/1  | M/F (@9am)   | Revisit      | Outcome Sharing     |
 
 ## Grading: Assessing Your Learning
 
@@ -184,10 +183,115 @@ class are built around those ideas.
 
 There are exactly 100 points up for grabs over the course of the semester.
 You'll begin with a score of 0, and each "act" will present a finite number of
-opportunties to pump that score up. Your score at the end of the semester will
-determine the letter grade you receive.
+opportunties to pump that score up. 
+
+Furthermore, each act will contain two types of evaluation: *asynchronous* and
+*synchronous*. When an activity is *asynchronous*, I mean that you're producing
+some output on your own time and submitting it at your leisure before a stated
+deadline. When an activity is *synchronous*, I mean you will be demonstrating
+your learning in real-time through some form of presentation or oral
+examination.
+
+The breakdown of these available points is rendered below:
+
+| Act          | Asynchronous Points | Synchronous Points | Total Points |
+| ------------ | ------------------- | ------------------ | ------------ |
+| I: Research  | 15                  | 5                  | 20           |
+| II: Relay    | 30                  | 30                 | 60           |
+| III: Revisit | 5                   | 15                 | 20           |
+
+### Act I Available Points
+
+The following **asynchronous** activities will be worth 5 points each during act
+I:
+
+- **Lecture Slides**: you'll be tasked with creating 5 slides that you will
+  eventually use to deliver a lecture on a specific operating systems topic
+  during act II. These slides will need to include at least one "infographic"
+  style visual of some part of the topic.
+
+- **Module Proposal**: you'll work with your teammates to propose a code module
+  that demonstrates the learning objective associated with your group's broad
+  topic, and ultimately craft a 5-point rubric that can be used to evaluate the
+  module's success.
+
+- **Module Prototype**: you'll work with your teammates to craft a completed
+  working version of your proposed code, which will be evaluated against your
+  proposed rubric. You'll also be expected to walk through a code review with
+  the instructor as a group.
+
+The following **synchronous** activity will be worth 5 points during act I:
+
+- **Expertise Oral Examination**: you'll have a one-on-one conversation with the
+  professor about your assigned topic, where you'll be asked to demonstrate what
+  you've learned while researching that topic, and ultimately defend your
+  purported expertise on the subject.
+
+### Act II Available Points (Expert):
+
+There will be a two-week period during act II where you will be one of the
+resident experts for the topic at hand. During this time, the following
+**synchronous** activities will be worth 5 points each:
+
+- **Module Reveal**: you and your teammates will provide a 15 minute
+  presentation revealing the coding module activity your team designed for the
+  class. This will include a motivation for the module, relevant starting
+  advice, and an explanation of the rubric you designed.
+
+- **Lecture**: you'll be tasked with individually delivering a 20-30 minute
+  lecture pertaining to your specific topic.
+
+- **Expert Forum Leadership**: you and your teammates will lead a class-wide
+  forum pertaining to the broad topic you all have researched together.
+
+### Act II Available Points (Non-Expert):
+
+There will be three two-week periods during act II where you will *not* be one
+of the resident experts for the topic at hand. During each of these periods,
+the following **asynchronous** activities will be available for 5 points each:
+
+- **Module Completion**: you'll work with your teammates to complete the coding
+  project designed by the current experts. Expect a code review with the
+  instructor once the module is completed.
+
+- **Infographic**: you'll work individually to produce a single infographic that
+  captures a high-level understanding of the current topic and presents it in an
+  easily digestible fashion. Expect to present it to the instructor and talk
+  through what the infographic relays to the viewer.
+
+During each of these periods, the following **synchronous** activity will be
+available for 5 points:
+
+- **Expert Forum Participation**: you will participate in a class-wide forum on
+  the current topic, where your primary responsibility will be to provide
+  insightful questions that can be addressed by the current experts.
+
+### Act III Available Points:
+
+The following **asynchronous** activity will be worth 5 points during act III:
+
+- **Benchmarking Proposal**: you'll propose a specific investigation into the
+  topic of benchmarking as it applies to one or more prior code modules from
+  this semester.
+
+The following **synchronous** activities will be worth 5 points each during act
+III:
+
+- **Benchmarking Outcome Presentation**: you'll present to the class your
+  findings from your benchmarking investigation.
+
+- **Cumulative Oral Examination**: you'll have a one-on-one conversation with
+  the instructor where questions pertaining to all five learning objectives must
+  be satisfactorily answered.
+
+- **Performance Review**: you'll present your corpus of work this semester to
+  the instructor in a one-on-one setting, and be asked to evaluate the quality
+  of your work, and justify those evaluations.
 
 ### Letter Grade Conversion Chart
+
+Your score at the end of the semester will determine the letter grade you
+receive, based on the below chart:
 
 | Score | Grade |
 | :---- | :---: |
@@ -202,6 +306,92 @@ determine the letter grade you receive.
 | 67+   | D+    |
 | 63+   | D     |
 
-### Score Breakdown
+### Regarding Attendance
 
+In order to win a ball game, you first have to show up. Same goes for your
+future careers, and same goes for this class. In keeping with department
+policies, excessive absences will negatively impact your grade. More
+specifically, missing class (or lab) more than six times this semester will
+result in a letter grade reduction. For these purposes, being late three times
+will constitute one absence.
 
+## Tokens: The Second Chance System
+
+My job is to facilitate your learning, and that's most effective when we're all
+learning *together*. Put another way: if you're on page five while the rest of
+the book club is on page five-hundred, then you're not going to get much out of
+book club, and book club isn't going to get much out of *you*.
+
+This being the case, once a deadline has passed, there will be no opportunity to
+reclaim any missed points...with two exceptions to be used at your discretion,
+that is.
+
+In keeping with department tradition, CMPSC 400 offers students two tokens
+that can be cashed in to make up work for two missed deadlines.
+
+Three guidelines apply to the cashing in of any tokens this semester:
+
+1. Tokens cannot be applied to any missed points for act I.
+
+2. Tokens cannot be applied to any missed points for **synchronous** activities,
+   unless arrangements have been made with the instructor *at least 24 hours*
+   before the synchronous activity takes place.
+
+3. Tokens may only be used up to one week after a missed deadline.
+
+It is unlikely that there will be chances to earn extra tokens this semester.
+
+## Our Environment: Regarding Community & Accommodations
+
+### Allegheny Statement of Community
+
+> Allegheny students and employees are committed to creating an inclusive,
+> respectful and safe residential learning community that will actively confront
+> and challenge racism, sexism, heterosexism, religious bigotry, and other forms
+> of harassment and discrimination. We encourage individual growth by promoting
+> a free exchange of ideas in a setting that values diversity, trust and
+> equality. So that the right of all to participate in a shared learning
+> experience is upheld, Allegheny affirms its commitment to the principles of
+> freedom of speech and inquiry, while at the same time fostering responsibility
+> and accountability in the exercise of these freedoms.
+
+Beyond the college-wide statement of community, the Allegheny Department of
+Computer and Information Science has four core values that we will all strive
+to emulate while taking classes within the department:
+
+![Allegheny CIS shared values](assets/values.png)
+
+### Academic Accommodations
+
+> Students with disabilities who believe they may need accommodations in this
+> class are encouraged to contact Student Accessibility and Support Services
+> (SASS) at (814) 332-2898.  Student Accessibility and Support Services is
+> located in Pelletier Library.  Please do this as soon as possible to ensure
+> that such accommodations are implemented in a timely fashion. Please see here
+> for more details.
+
+Beyond college-sponsored academic accomodations, if you ever feel that you need
+an extra helping hand to manage course workload, please get with me ASAP. My
+goal is to ensure that we all learn *together*; achieving this requires that
+none of us get left behind.
+
+## Buyer Beware: A Note on AI
+
+AI tools such as Copilot and ChatGPT are fairly ubiquitous these days, and they
+have immense potential and utility in a variety of disciplines and industries.
+I believe that part of responsibly preparing all of you for life beyond
+Allegheny includes preparing you for the ways in which such AI tools can be a
+boon, as well as a hindrance.
+
+I encourage all of you to thoughtfully deliberate over which deliverables would
+be conducive to AI assistance, and which would not. Knowing that the ultimate
+goal of our time here is to *learn together*, I think you'll find you'll get the
+most out of this class by honestly grappling with assignments as a human first,
+and then tagging in your AI tools of choice to polish, refine, and elevate your
+contributions.
+
+A word of warning: regardless of the extent to which you rely on AI tools to
+complete deliverables, the one-on-one instructor conversations that will take
+place during the semester will see you in an environment sans AI where you
+must successfully communicate what you've learned in the course, and make up
+a significant percentage of the available points this semester.
