@@ -158,18 +158,18 @@ course organization home page as they become relevant to what we're working on.
 | Week        | Meeting Days | Act          | Topic               |
 | ----------- | ------------ | ------------ | ------------------- |
 | 1/12 - 1/16 | M/Tu/Th      | Research     | Orientation         |
-| 1/19 - 1/23 | Tu/Th        | Research     | Module Proposals    |
-| 1/26 - 1/30 | M/Tu/Th      | Research     | Module Prototypes   |
-| 2/2 - 2/6   | M/Tu/Th      | Relay        | Process Management  |
+| 1/19 - 1/23 | Tu/Th        | Research     | Book Clubs          |
+| 1/26 - 1/30 | M/Tu/Th      | Research     | Module Proposals    |
+| 2/2 - 2/6   | M/Tu/Th      | Research     | Module Prototypes   |
 | 2/9 - 2/13  | M/Tu/Th      | Relay        | Process Management  |
-| 2/16 - 2/20 | M/Tu/Th      | Relay        | Memory Management   |
+| 2/16 - 2/20 | M/Tu/Th      | Relay        | Process Management  |
 | 2/23 - 2/27 | M/Tu/Th      | Relay        | Memory Management   |
 | 3/2 - 3/6   | `null`       | Intermission | Spring Break!       |
-| 3/9 - 3/13  | M/Tu/Th      | Relay        | Concurrent Systems  |
+| 3/9 - 3/13  | M/Tu/Th      | Relay        | Memory Management   |
 | 3/16 - 3/20 | M/Tu/Th      | Relay        | Concurrent Systems  |
-| 3/23 - 3/27 | M/Tu/Th      | Relay        | Persistent Storage  |
+| 3/23 - 3/27 | M/Tu/Th      | Relay        | Concurrent Systems  |
 | 3/30 - 4/3  | M/Tu/Th      | Relay        | Persistent Storage  |
-| 4/6 - 4/10  | Tu           | Revisit      | Benchmarking        |
+| 4/6 - 4/10  | Tu           | Relay        | Persistent Storage  |
 | 4/13 - 4/17 | M/Tu/Th      | Revisit      | Project Proposals   |
 | 4/20 - 4/24 | M/Tu/Th      | Revisit      | Project Dev         |
 | 4/27 - 5/1  | M/F (@9am)   | Revisit      | Outcome Sharing     |
@@ -250,7 +250,7 @@ There will be three two-week periods during act II where you will *not* be one
 of the resident experts for the topic at hand. During each of these periods,
 the following **asynchronous** activities will be available for 5 points each:
 
-- **Module Completion**: you'll work with your teammates to complete the coding
+- **Module Completion**: you'll work individually to complete the coding
   project designed by the current experts. Expect a code review with the
   instructor once the module is completed.
 
