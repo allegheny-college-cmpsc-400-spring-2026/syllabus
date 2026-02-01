@@ -158,18 +158,18 @@ course organization home page as they become relevant to what we're working on.
 | Week        | Meeting Days | Act          | Topic               |
 | ----------- | ------------ | ------------ | ------------------- |
 | 1/12 - 1/16 | M/Tu/Th      | Research     | Orientation         |
-| 1/19 - 1/23 | Tu/Th        | Research     | Module Proposals    |
-| 1/26 - 1/30 | M/Tu/Th      | Research     | Module Prototypes   |
-| 2/2 - 2/6   | M/Tu/Th      | Relay        | Process Management  |
-| 2/9 - 2/13  | M/Tu/Th      | Relay        | Process Management  |
-| 2/16 - 2/20 | M/Tu/Th      | Relay        | Memory Management   |
-| 2/23 - 2/27 | M/Tu/Th      | Relay        | Memory Management   |
+| 1/19 - 1/23 | Tu/Th        | Research     | Book Clubs          |
+| 1/26 - 1/30 | M/Tu/Th      | Research     | Module Proposals    |
+| 2/2 - 2/6   | M/Tu/Th      | Relay        | Module Prototypes   |
+| 2/9 - 2/13  | M/Tu/Th      | Relay        | Research Wrap-Up    |
+| 2/16 - 2/20 | M/Tu/Th      | Relay        | Process Management  |
+| 2/23 - 2/27 | M/Tu/Th      | Relay        | Process Management  |
 | 3/2 - 3/6   | `null`       | Intermission | Spring Break!       |
-| 3/9 - 3/13  | M/Tu/Th      | Relay        | Concurrent Systems  |
+| 3/9 - 3/13  | M/Tu/Th      | Relay        | Memory Management   |
 | 3/16 - 3/20 | M/Tu/Th      | Relay        | Concurrent Systems  |
-| 3/23 - 3/27 | M/Tu/Th      | Relay        | Persistent Storage  |
+| 3/23 - 3/27 | M/Tu/Th      | Relay        | Concurrent Systems  |
 | 3/30 - 4/3  | M/Tu/Th      | Relay        | Persistent Storage  |
-| 4/6 - 4/10  | Tu           | Revisit      | Benchmarking        |
+| 4/6 - 4/10  | Tu           | Revisit      | Cumulative Q&A      |
 | 4/13 - 4/17 | M/Tu/Th      | Revisit      | Project Proposals   |
 | 4/20 - 4/24 | M/Tu/Th      | Revisit      | Project Dev         |
 | 4/27 - 5/1  | M/F (@9am)   | Revisit      | Outcome Sharing     |
@@ -241,8 +241,11 @@ resident experts for the topic at hand. During this time, the following
 - **Lecture**: you'll be tasked with individually delivering a 20-30 minute
   lecture pertaining to your specific topic.
 
-- **Expert Forum Leadership**: you and your teammates will lead a class-wide
-  forum pertaining to the broad topic you all have researched together.
+- **Learning Objective Oral Examination**: you'll have a one-on-one conversation
+  with the professor about the current learning objective, where you'll be asked
+  to demonstrate what you've learned from partaking of others' expertise on that
+  topic, and ultimately defend the assertion that you've met the learning
+  objective.
 
 ### Act II Available Points (Non-Expert):
 
@@ -250,9 +253,9 @@ There will be three two-week periods during act II where you will *not* be one
 of the resident experts for the topic at hand. During each of these periods,
 the following **asynchronous** activities will be available for 5 points each:
 
-- **Module Completion**: you'll work with your teammates to complete the coding
-  project designed by the current experts. Expect a code review with the
-  instructor once the module is completed.
+- **Module Completion**: you'll work individually to complete the coding project
+  designed by the current experts. Expect a code review with the instructor once
+  the module is completed.
 
 - **Infographic**: you'll work individually to produce a single infographic that
   captures a high-level understanding of the current topic and presents it in an
@@ -262,9 +265,11 @@ the following **asynchronous** activities will be available for 5 points each:
 During each of these periods, the following **synchronous** activity will be
 available for 5 points:
 
-- **Expert Forum Participation**: you will participate in a class-wide forum on
-  the current topic, where your primary responsibility will be to provide
-  insightful questions that can be addressed by the current experts.
+- **Learning Objective Oral Examination**: you'll have a one-on-one conversation
+  with the professor about the current learning objective, where you'll be asked
+  to demonstrate what you've learned from partaking of others' expertise on that
+  topic, and ultimately defend the assertion that you've met the learning
+  objective.
 
 ### Act III Available Points:
 
@@ -277,12 +282,14 @@ The following **asynchronous** activity will be worth 5 points during act III:
 The following **synchronous** activities will be worth 5 points each during act
 III:
 
+- **Cumulative Q&A**: you'll participate in a classwide discussion of open
+  questions pertaining to any topics that have been covered this semester.
+  You'll be expected to prepare an intelligent question pertaining to someone
+  else's expertise, and be expected to come up with a response to one other
+  classmate's question.
+
 - **Benchmarking Outcome Presentation**: you'll present to the class your
   findings from your benchmarking investigation.
-
-- **Cumulative Oral Examination**: you'll have a one-on-one conversation with
-  the instructor where questions pertaining to all five learning objectives must
-  be satisfactorily answered.
 
 - **Performance Review**: you'll present your corpus of work this semester to
   the instructor in a one-on-one setting, and be asked to evaluate the quality
